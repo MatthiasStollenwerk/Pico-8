@@ -1,0 +1,3658 @@
+
+LOG [2]: INFO: Log file reset and initialized.
+LOG [1]: DEBUG: This is a debug message.
+LOG [2]: INFO: This is an info message.
+LOG [3]: WARN: This is a warning message.
+LOG [4]: ERROR: This is an error message.
+LOG [2]: INFO: >> init
+LOG [2]: INFO: >> main
+LOG [2]: INFO: << main
+LOG [2]: INFO: << init
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == intro
+LOG [2]: INFO: btnp(❎)
+LOG [2]: INFO: player.game_state == start
+LOG [2]: INFO: generating new dungeon
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: player.game_state == play
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
+LOG [2]: INFO: >> update
