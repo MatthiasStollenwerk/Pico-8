@@ -1,0 +1,21 @@
+/Users/mstoll/Library/Application Support/pico-8/carts
+
+echo "# Pico-8" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin "https://github.com/MatthiasStollenwerk/Pico-8.git"
+git push -u origin main
+
+
+Oh my Zsh
+
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+Add the SSH Key to the SSH Agent
+Ensure the ssh-agent is running and add your SSH private key to it:
+
+Start the SSH Agent: Run eval "$(ssh-agent -s)".
+Add SSH Key to SSH Agent: Use ssh-add ~/.ssh/id_rsa. Replace ~/.ssh/id_rsa with the path to your private key if you saved it elsewhere.
+

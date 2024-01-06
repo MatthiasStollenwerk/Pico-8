@@ -23,24 +23,24 @@ function update_fx()
     for fx in all(effects) do
         --lifetime
         fx.t+=1
-								if fx.t>fx.die then del(effects,fx) end
+		if fx.t>fx.die then del(effects,fx) end
         --color depends on lifetime
-								if fx.t/fx.die < 1/#fx.c_table then
-								    fx.c=fx.c_table[1]								
-								elseif fx.t/fx.die < 2/#fx.c_table then
-								    fx.c=fx.c_table[2]								
-								elseif fx.t/fx.die < 3/#fx.c_table then
-								    fx.c=fx.c_table[3]								
-								else
-								    fx.c=fx.c_table[4]
-								end
-        --physics
-   					if fx.grav then fx.dy+=.5 end
-								if fx.grow then fx.r+=.1 end
-								if fx.shrink then fx.r-=.1 end     		
+		if fx.t/fx.die < 1/#fx.c_table then
+            fx.c=fx.c_table[1]								
+        elseif fx.t/fx.die < 2/#fx.c_table then
+            fx.c=fx.c_table[2]								
+        elseif fx.t/fx.die < 3/#fx.c_table then
+            fx.c=fx.c_table[3]								
+        else
+            fx.c=fx.c_table[4]
+        end
+--physics
+        if fx.grav then fx.dy+=.5 end
+        if fx.grow then fx.r+=.1 end
+        if fx.shrink then fx.r-=.1 end     		
         --move
         fx.x+=fx.dx
-								fx.y+=fx.dy        
+        fx.y+=fx.dy        
     end
 end
 function draw_fx()
@@ -57,7 +57,7 @@ function random_bullet_storm(x,y,spd,num)
     for i=0, num do
         --settings
         add_fx(
-        //random_bullet_storm(player.x,player.y+40,2,6)
+            //random_bullet_storm(player.x,player.y+40,2,6)
             x,  -- x
             y,  -- y
             30,  -- die
@@ -68,7 +68,6 @@ function random_bullet_storm(x,y,spd,num)
             false,     -- shrink
             2,         -- radius
             {2,1,7}    -- color_table
-            
         )
     end
 end
@@ -76,7 +75,7 @@ function torch_fire(x,y,spd,num)
     for i=0, num do
         --settings
         add_fx(
-        //random_bullet_storm(player.x,player.y+40,2,6)
+            //random_bullet_storm(player.x,player.y+40,2,6)
             x+rnd(2)-1,  -- x
             y,  -- y
             rnd(5),  -- die
@@ -87,7 +86,6 @@ function torch_fire(x,y,spd,num)
             true,     -- shrink
             rnd(0.5),         -- radius
             {10,9,8,4}    -- color_table
-            
         )
     end
 end
