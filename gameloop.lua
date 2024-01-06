@@ -1,15 +1,15 @@
 function _update()
-    logInfo(">> update")	
+    logDebug(">> update")	
 
     if player.stage == 7 then
 		player.game_state = "victory"
 	end
 
     if player.game_state == "intro" then
-        logInfo("player.game_state == intro")
+        logDebug("player.game_state == intro")
         camera(0,0)
         if btnp(❎) then
-            logInfo("btnp(❎)")
+            logDebug("btnp(❎)")
             player.game_state = "start"
         end
     end
@@ -21,13 +21,14 @@ function _update()
     end
 
     if player.game_state == "play" then
-        logInfo("player.game_state == play")
+        logDebug("player.game_state == play")
         //update everything game related
         if (dtb_f[1]~=0) then
             if player.turn then	
                 move_player()
             elseif player.turn == false then
                 turn_num += 1
+				logInfo("player.x: "..player.x .." player.y: "..player.y)
                 if (turn_num%6 ==0) then
                     player.hp +=1
                 end

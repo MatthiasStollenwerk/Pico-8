@@ -77,7 +77,7 @@ function _init()
     resetLogFile()
 
     -- Example Usage
-    setLogLevel(LogLevel.DEBUG)
+    setLogLevel(LogLevel.INFO)
 
     logDebug("This is a debug message.")
     logInfo("This is an info message.")

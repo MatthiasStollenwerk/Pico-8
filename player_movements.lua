@@ -86,7 +86,7 @@ function move_player()
           
           end
           
-    
+    logDebug("player.x: "..player.x .." player.y: "..player.y)
     player.x = player.x + player.hs
     player.y = player.y - player.vs
   

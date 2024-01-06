@@ -19,3 +19,6 @@ Ensure the ssh-agent is running and add your SSH private key to it:
 Start the SSH Agent: Run eval "$(ssh-agent -s)".
 Add SSH Key to SSH Agent: Use ssh-add ~/.ssh/id_rsa. Replace ~/.ssh/id_rsa with the path to your private key if you saved it elsewhere.
 
+$(ssh-agent -s)
+ssh-add ~/.ssh/github-gmail
+

@@ -7,6 +7,8 @@ function generate_new_dungeon()
 end
     
 function dungeon_generator(room_num)
+    logInfo("generating dungeon")
+    
     x =0
     y =0
     for r = 0,room_num*size,size do
@@ -47,6 +49,7 @@ function dungeon_generator(room_num)
             end
         end
     end    
+    logInfo("dungeon generated")
 end
 
 function add_decoration()
@@ -95,6 +98,7 @@ function add_decoration()
             
             if i.x == ex or i.x==ex2 then
                 if i.y == ey or i.y==ey2 then
+                    logInfo("spawned door at " .. i.x .. " " .. i.y)
                     mset(i.x+8,i.y+8, 67)
                 end
             end

@@ -177,6 +177,7 @@ function inderactable(x,y)
 				if (obj == i.spr_id)then
 					--do something object specific
 					if i.effect == "break" then
+                        logDebug("break got triggered")
 						sfx(i.sound)
 						mset(x,y,i.broken_spr)
 						local rng=flr(rnd(50))
